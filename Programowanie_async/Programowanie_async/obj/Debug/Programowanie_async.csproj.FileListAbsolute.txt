@@ -1,0 +1,9 @@
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\bin\Debug\Programowanie_async.exe.config
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\bin\Debug\Programowanie_async.exe
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\bin\Debug\Programowanie_async.pdb
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.Form1.resources
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.Properties.Resources.resources
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.csproj.GenerateResource.Cache
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.exe
+C:\Users\Michał\Desktop\Programowanie_async\Programowanie_async\obj\Debug\Programowanie_async.pdb
